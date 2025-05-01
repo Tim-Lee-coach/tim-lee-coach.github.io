@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: 給想學英文的人
+subtitle: 從現在就開始
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [English Teaching]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Tim Lee
 ---
 
 {: .box-success}
