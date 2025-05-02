@@ -41,7 +41,7 @@ subtitle: 還在擔心學不起來？
 自己並不是相關科系畢業的，但由於自己的興趣、英文檢定和英語的競賽都是靠自學學習起來的，因此在自學的部分頗有心得，此外，我的教學目標不僅僅是讓學生學會英文，更希望他們能夠<span style="color: #6699ff;">自主學習</span>，甚至掌握在網路上自學的方法。
 
 <div style="text-align: center;">
-  <img src="./assets/img/DSC01800.JPG" alt="Description" width="300"/>
+  <img src="/assets/img/DSC01800.JPG" alt="Description" width="300"/>
   <p style="font-style: italic;">IET HongKong Group photo</p>
 </div>
 
