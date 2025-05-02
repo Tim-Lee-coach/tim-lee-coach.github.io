@@ -41,7 +41,7 @@ subtitle: 還在擔心學不起來？
 自己並不是相關科系畢業的，但由於自己的興趣、英文檢定和英語的競賽都是靠自學學習起來的，因此在自學的部分頗有心得，此外，我的教學目標不僅僅是讓學生學會英文，更希望他們能夠<span style="color: #6699ff;">自主學習</span>，甚至掌握在網路上自學的方法。
 
 <div style="text-align: center;">
-  <img src="/assets/img/DSC01800.JPG" alt="Description" width="300"/>
+  <img src="/assets/img/DSC01800.JPG" alt="Description" width="400"/>
   <p style="font-style: italic;">IET HongKong Group photo</p>
 </div>
 
@@ -58,4 +58,17 @@ subtitle: 還在擔心學不起來？
 #### Cindy
 > 上第一堂Tim的課程，老師很樂於引導學生有更多的口說機會，也會即時提供建議，隨時有問題都很用心回答，課後還會提供上課筆記，真的很棒！
 
+### 上課方式
 
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>上課方式：Zoom線上會議</li>
+  <li>收費價格：450</li>
+  <li>聯絡方式：Line: @723abxsw</li>
+  <li>上課時間：平日晚上、假日</li>
+  <li>教學對象：大學生以上、上班族</li>
+</ul>
+
+<div style="text-align: center;">
+  <img src="/assets/img/Line_qr.png" alt="Description" width="300"/>
+  <p style="font-style: italic;">QR Code</p>
+</div>
