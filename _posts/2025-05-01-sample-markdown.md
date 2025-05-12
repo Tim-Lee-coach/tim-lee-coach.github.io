@@ -36,6 +36,7 @@ author: Tim Lee
   </style>
 </head>
 <body>
+
   <div class="video-container">
     <div class="video-title">Luck, Success, and Want | Marco Pierre White</div>
     <iframe 
@@ -46,7 +47,8 @@ author: Tim Lee
     </iframe>
     <div class="video-comment"></div>
   </div>
-    <div class="video-container">
+
+  <div class="video-container">
     <div class="video-title">Advices For Young People | Jordan B. Peterson</div>
     <iframe 
       src="https://www.youtube.com/embed/c5qnaMy0Zag" 
@@ -54,7 +56,20 @@ author: Tim Lee
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
       allowfullscreen>
     </iframe>
+  <div class="video-comment"></div>
+  </div>
+    </div>
+
+  <div class="video-container">
+    <div class="video-title">How You Slow Down Your Growth | Jordan B. Peterson</div>
+    <iframe 
+      src="https://www.youtube.com/embed/KwT1xIlNrwA" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
     <div class="video-comment"></div>
+  </div>
   </div>
 </body>
 </html>
