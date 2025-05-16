@@ -66,7 +66,7 @@ author: Tim Lee
 
   <h3>🌿 延伸閱讀與資源</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=3iF8xteJPuQ" target="_blank">喬丹·彼得森（Jordan Peterson）吸引人法則解釋了</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3iF8xteJPuQ" target="_blank">喬丹·彼得森（Jordan Peterson）解釋吸引力法則</a></li>
 </ul>
 
 </body>
