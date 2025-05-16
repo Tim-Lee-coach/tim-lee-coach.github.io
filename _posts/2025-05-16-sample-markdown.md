@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 吸引力法則｜在紐西蘭的一個夜晚
-subtitle: Modern Meditation Channel
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/post_images/NZ_01.png
 thumbnail-img: /assets/img/post_images/NZ_01.png
@@ -11,7 +10,7 @@ comments: true
 mathjax: true
 author: Tim Lee
 ---
-<!DOCTYPE html>
+
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
@@ -36,7 +35,7 @@ author: Tim Lee
   <p>我們也聊到<strong>佛教</strong>、自我意識、還有很多生命裡重要的事。就這樣，短短一晚。</p>
 
   <div style="text-align: center;">
-  <img src="/assets/img/post_images/NZ_02.JPG" alt="Description" width="300"/>
+  <img src="/assets/img/post_images/NZ_02.jpg" alt="Description" width="300"/>
   <p style="font-style: italic;">住宿家庭的狗狗 Odin</p>
 </div>
 
@@ -62,6 +61,13 @@ author: Tim Lee
   <li><strong>接受不同的人生地圖</strong><br>
     不是每個人都會理解你。有人會批評、有人會看輕你。沒關係，他們走的是不同的路。你可以觀察、學習，然後繼續走自己的方向。</li>
   </ol>
+
+  <p>你永遠不會知道，哪一次的真誠表達、哪一次的勇敢行動，會吸引來生命中的貴人或轉機。<br>所以，請你繼續探索自己想成為的那個人，並相信那些你想遇見的人，終究會因你的存在而靠近。</p>
+
+  <h3>🌿 延伸閱讀與資源</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=3iF8xteJPuQ" target="_blank">喬丹·彼得森（Jordan Peterson）吸引人法則解釋了</a></li>
+</ul>
 
 </body>
 </html>
