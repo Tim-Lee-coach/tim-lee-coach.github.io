@@ -12,7 +12,6 @@ author: Tim Lee
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <title>YouTube 影片嵌入範例</title>
   <style>
     .video-container {
       text-align: center;
@@ -58,7 +57,6 @@ author: Tim Lee
     </iframe>
   <div class="video-comment"></div>
   </div>
-    </div>
 
   <div class="video-container">
     <div class="video-title">How You Slow Down Your Growth | Jordan B. Peterson</div>
@@ -69,7 +67,6 @@ author: Tim Lee
       allowfullscreen>
     </iframe>
     <div class="video-comment"></div>
-  </div>
   </div>
 </body>
 </html>
