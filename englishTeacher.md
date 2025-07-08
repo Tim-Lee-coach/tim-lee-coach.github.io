@@ -63,7 +63,7 @@ subtitle: 還在擔心學不起來？
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>上課方式：Zoom線上會議</li>
-  <li>收費價格：450</li>
+  <li>收費價格：500</li>
   <li>聯絡方式：Line: @723abxsw</li>
   <li>上課時間：平日晚上、假日</li>
   <li>教學對象：大學生以上、上班族</li>
