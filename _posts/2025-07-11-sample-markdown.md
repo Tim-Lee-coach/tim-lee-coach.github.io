@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 吸引力法則｜在紐西蘭的一個夜晚
+title: 五遍行心所與斯多葛心理流程的對照
 gh-repo: daattali/beautiful-jekyll
-cover-img: /assets/img/post_images/NZ_01.png
-thumbnail-img: /assets/img/post_images/NZ_01.png
-share-img: /assets/img/post_images/NZ_01.png
-tags: [Story]
+# cover-img: /assets/img/post_images/NZ_01.png
+thumbnail-img: /assets/img/post_images/five_budd.jpg
+# share-img: /assets/img/post_images/NZ_01.png
+tags: [Study]
 comments: true
 mathjax: true
 author: Tim Lee
@@ -42,7 +42,7 @@ author: Tim Lee
   </ul>
 
   <div style="text-align: center;">
-  <img src="/assets/img/post_images/fiv_budd.jpg" alt="Description" width="300"/>
+  <img src="/assets/img/post_images/five_budd.jpg" alt="Description" width="300"/>
   <p style="font-style: italic;">住宿家庭的狗狗 Odin</p>
   </div>
 
