@@ -2,9 +2,9 @@
 layout: post
 title: 五遍行心所與斯多葛心理流程的對照
 gh-repo: daattali/beautiful-jekyll
-cover-img: /assets/img/post_images/bud_tree.png
+cover-img: /assets/img/post_images/bud_tree.jpg
 thumbnail-img: /assets/img/post_images/five_budd.jpg
-share-img: /assets/img/post_images/bud_tree.png
+share-img: /assets/img/post_images/bud_tree.jpg
 tags: [Study]
 comments: true
 mathjax: true
