@@ -43,7 +43,7 @@ author: Tim Lee
 
   <div style="text-align: center;">
   <img src="/assets/img/post_images/five_budd.jpg" alt="Description" width="300"/>
-  <p style="font-style: italic;">住宿家庭的狗狗 Odin</p>
+  <p style="font-style: italic;">Five mental factors</p>
   </div>
 
   <h2>三、斯多葛學派的三階段心理流程</h2>
