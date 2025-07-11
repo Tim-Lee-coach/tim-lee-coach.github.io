@@ -37,7 +37,7 @@ author: Tim Lee
   <div style="text-align: center;">
   <img src="/assets/img/post_images/NZ_02.jpg" alt="Description" width="300"/>
   <p style="font-style: italic;">住宿家庭的狗狗 Odin</p>
-</div>
+  </div>
 
   <h2>吸引力法則的真正含義</h2>
 
