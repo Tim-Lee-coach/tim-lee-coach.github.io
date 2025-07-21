@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 五遍行心所與斯多葛心理流程的對照
+title: 第二人生Podcast：五蘊與斯多葛哲學，找到內心平靜
 gh-repo: daattali/beautiful-jekyll
-cover-img: /assets/img/post_images/bud_tree.jpg
-thumbnail-img: /assets/img/post_images/five_budd.jpg
-share-img: /assets/img/post_images/bud_tree.jpg
+cover-img: /assets/img/post_images/stoic.jpg
+thumbnail-img: /assets/img/post_images/stoic.jpg
+share-img: /assets/img/post_images/stoic.jpg
 tags: [Podcast]
 comments: true
 mathjax: true
