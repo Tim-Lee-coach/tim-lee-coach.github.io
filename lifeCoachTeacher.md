@@ -23,13 +23,13 @@ subtitle: 重拾自己的自主權
 
 一種以正念為基礎的心理治療方法：與其對抗痛苦，不如學會與它共處，同時朝著有意義的方向前進。
 
-[閱讀完整介紹 →](/_coaching_posts/act-therapy)
+[閱讀完整介紹 →](/coaching_posts/act-therapy)
 
 ## 重建自信計劃
 
 自信有不同層次，我們可以一步步向內探索，從外在的反應，走到內在的穩定。
 
-[閱讀完整計劃 →](/_coaching_posts/confidence-rebuilding)
+[閱讀完整計劃 →](/coaching_posts/confidence-rebuilding)
 
 
 ---
